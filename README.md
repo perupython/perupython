@@ -10,6 +10,11 @@
 [![GitHub Followers](https://img.shields.io/github/followers/perupython?label=Followers&logo=github&style=social)](https://github.com/perupython)
 [![GitHub Stars](https://img.shields.io/github/stars/perupython?label=Stars&logo=github&style=social)](https://github.com/perupython)
 
+[![YouTube](https://img.shields.io/badge/YouTube-@perupython-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@perupython)
+[![TikTok](https://img.shields.io/badge/TikTok-@perupython-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@perupython)
+[![GitHub](https://img.shields.io/badge/GitHub-@perupython-181717?style=for-the-badge&logo=github)](https://github.com/perupython)
+
+
 ---
 
 ## 💻 Mis clases y transmisiones
