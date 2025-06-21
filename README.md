@@ -7,6 +7,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-Suscríbete-red?style=flat&logo=youtube)](https://www.youtube.com/@perupython)
 [![TikTok](https://img.shields.io/badge/TikTok-@perupython-white?style=flat&logo=tiktok)](https://www.tiktok.com/@perupython)
 
+
 ---
 
 ## 💻 Mis clases y transmisiones
@@ -16,7 +17,7 @@
 - Cursos en vivo de Python para análisis de datos  
 - Clases estructuradas con teoría, práctica y proyectos reales  
 
-
+> 📬 Escríbeme por redes si quieres unirte a mis cursos o lives privados
 
 ---
 
@@ -25,15 +26,6 @@
 - [`clases-gratuitas`](https://github.com/perupython/clases-gratuitas)  
   Clases en vivo que imparto por TikTok con ejercicios, proyectos y material educativo.
 
----
-
-## 🌐 Sígueme en redes
-
-- TikTok: [@perupython](https://www.tiktok.com/@perupython)  
-- Instagram: [@perupython](https://www.instagram.com/perupython)  
-- Youtube: [Python Perú](https://www.youtube.com/@perupython)
-
-> 📬 Escríbeme por redes si quieres unirte a mis cursos o lives privados
 
 ---
 
