@@ -47,7 +47,7 @@
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikitlearn)
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-509941?style=flat)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)
+
 
 ![REDES SOCIALES BANNER](https://github.com/user-attachments/assets/64ea1a13-a099-44fc-bcd9-dea07bd78830)
 
