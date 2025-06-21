@@ -1,22 +1,9 @@
 # 👋 ¡Hola, soy Python Perú!
   
-👨‍🏫 Instructor de Python para Análisis de Datos 
+👨‍🏫 Instructor de Python para Análisis de Datos   
 🎥 Hago clases gratuitas en vivo todos los días en TikTok para toda la comunidad de habla hispana.
 
-
-
-
----
-
-## 🚀 ¿Qué encontrarás en este perfil?
-
-- 📘 Proyectos educativos en Python  
-- 🧪 Laboratorios prácticos por niveles  
-- 📊 Notebooks con análisis de datos reales  
-- 🧠 Ejercicios explicados paso a paso  
-- 📈 Aplicaciones con librerías de ciencia de datos  
-- 📂 Recursos que uso en mis clases en vivo  
-
+![GitHub followers](https://img.shields.io/github/followers/PeruPython?style=flat&logo=github)
 
 
 ---
@@ -54,7 +41,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=matplotlib)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-2C2D72?style=flat)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat)
 ![GeoPandas](https://img.shields.io/badge/-GeoPandas-008080?style=flat)
