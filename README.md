@@ -7,6 +7,8 @@
 
 🎥 Hago **clases gratuitas en vivo todos los días** en TikTok para toda la comunidad de habla hispana.
 
+
+
 ---
 
 ## 🚀 ¿Qué encontrarás en este perfil?
@@ -18,28 +20,33 @@
 - 📈 Aplicaciones con librerías de ciencia de datos  
 - 📂 Recursos que uso en mis clases en vivo  
 
+
+
 ---
 
 ## 💻 Mis clases y transmisiones
 
-🔴 **Lives diarios en TikTok** enseñando Python desde cero  
+🔴 Lives diarios en TikTok enseñando Python desde cero  
+
 🎓 Cursos en vivo de Python para análisis de datos  
 📅 Clases estructuradas con teoría, práctica y proyectos reales  
+
+
 
 ---
 
 ## 📁 Repositorio principal
 
-- 🎒 [`clases-gratuitas-python`](https://github.com/YoshioRivera/clases-gratuitas-python)  
+- 🎒 [`clases-gratuitas`](https://github.com/perupython/clases-gratuitas)  
   Clases en vivo que imparto por TikTok con ejercicios, proyectos y material educativo.
 
 ---
 
 ## 🌐 Sígueme en redes
 
-- 🎥 TikTok: [@pythonperu](https://www.tiktok.com/@pythonperu)  
-- 📸 Instagram: [@pythonperu](https://www.instagram.com/pythonperu)  
-- ▶️ YouTube: [Python Perú](https://www.youtube.com/@pythonperu)
+- 🎥 TikTok: [@perupython](https://www.tiktok.com/@perupython)  
+- 📸 Instagram: [@perupython](https://www.instagram.com/perupython)  
+- ▶️ YouTube: [Python Perú](https://www.youtube.com/@perupython)
 
 > 📬 Escríbeme por redes si quieres unirte a mis cursos o lives privados
 
@@ -59,6 +66,8 @@
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-509941?style=flat)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)
+
+
 
 ---
 
