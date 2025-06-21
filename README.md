@@ -4,7 +4,7 @@
 🎥 Hago clases gratuitas en vivo todos los días en TikTok para toda la comunidad de habla hispana.
 
 ![GitHub followers](https://img.shields.io/github/followers/PeruPython?style=flat&logo=github)
-[![YouTube](https://img.shields.io/badge/YouTube-Suscríbete-red?style=flat&logo=youtube)](https://www.youtube.com/@TU_USUARIO)
+[![YouTube](https://img.shields.io/badge/YouTube-Suscríbete-red?style=flat&logo=youtube)](https://www.youtube.com/@perupython)
 
 
 ---
