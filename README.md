@@ -14,7 +14,7 @@
 🔴 **Lives diarios gratuitos** en TikTok enseñando Python desde cero.  
 - Clases didácticas con teoría, práctica y ejercicios reales para todos los niveles.
 
-🎓 También ofrezco **cursos pagos de especialización en Análisis de Datos con Python**, donde trabajamos con:
+🟢 También ofrezco **cursos pagos de especialización en Análisis de Datos con Python**, donde trabajamos con:
 
 - Manipulación de datos con Pandas y Numpy
 - Visualización de datos con Matplotlib  
