@@ -11,12 +11,18 @@
 
 ## 💻 Mis clases y transmisiones
 
-🔴 Lives diarios en TikTok enseñando Python desde cero  
+🔴 **Lives diarios gratuitos** en TikTok enseñando Python desde cero.  
+🧠 Clases didácticas con teoría, práctica y ejercicios reales para todos los niveles.
 
-- Cursos en vivo de Python para análisis de datos  
-- Clases estructuradas con teoría, práctica y proyectos reales  
+🎓 También ofrezco **cursos pagos de especialización en Análisis de Datos con Python**, donde trabajamos con:
 
-> 📬 Escríbeme por redes si quieres unirte a mis cursos o lives privados
+- Pandas, NumPy, Matplotlib, Seaborn, Plotly  
+- Web scraping con BeautifulSoup y Selenium  
+- Estadística aplicada con Statsmodels y SciPy  
+- Proyectos con datos reales de Kaggle y Data.gov
+
+> 📬 Escríbeme por redes si quieres unirte a mis cursos pagos o lives privados.  
+> ¡Aprende desde cero hasta convertirte en analista de datos profesional!
 
 ---
 
