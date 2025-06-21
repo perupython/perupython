@@ -4,7 +4,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/PeruPython?style=flat&logo=github)
 [![YouTube](https://img.shields.io/badge/YouTube-793-red?style=flat&logo=youtube)](https://www.youtube.com/@perupython)
-[![TikTok](https://img.shields.io/badge/TikTok-19_k-white?style=flat&logo=tiktok)](https://www.tiktok.com/@perupython)
+[![TikTok](https://img.shields.io/badge/TikTok-19k-white?style=flat&logo=tiktok)](https://www.tiktok.com/@perupython)
 
 
 ---
