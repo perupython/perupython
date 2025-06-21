@@ -4,7 +4,8 @@
 
 
 
-[![YouTube](https://img.shields.io/youtube/subscribers/UCC3_dSUen5cfiow8E5exgwQ?label=Subscribers&style=for-the-badge&color=red&logo=youtube)](https://www.youtube.com/@perupython)
+[![YouTube](https://img.shields.io/badge/YouTube-@perupython-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@perupython)
+
 [![TikTok](https://img.shields.io/badge/TikTok-19k-black?style=social&logo=tiktok)](https://www.tiktok.com/@perupython)
 [![GitHub Followers](https://img.shields.io/github/followers/perupython?label=Followers&logo=github&style=social)](https://github.com/perupython)
 [![GitHub Stars](https://img.shields.io/github/stars/perupython?label=Stars&logo=github&style=social)](https://github.com/perupython)
