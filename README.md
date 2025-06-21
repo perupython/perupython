@@ -1,7 +1,7 @@
 # 👋 ¡Hola, soy Python Perú!
   
-👨‍🏫 Instructor de Python para Análisis de Datos   
-🎥 Hago clases gratuitas en vivo todos los días en TikTok para toda la comunidad de habla hispana.
+- Instructor de Python para Análisis de Datos   
+- Hago clases gratuitas en vivo todos los días en TikTok para toda la comunidad de habla hispana.
 
 ![GitHub followers](https://img.shields.io/github/followers/PeruPython?style=flat&logo=github)
 [![YouTube](https://img.shields.io/badge/YouTube-Suscríbete-red?style=flat&logo=youtube)](https://www.youtube.com/@perupython)
@@ -12,8 +12,8 @@
 
 🔴 Lives diarios en TikTok enseñando Python desde cero  
 
-🎓 Cursos en vivo de Python para análisis de datos  
-📅 Clases estructuradas con teoría, práctica y proyectos reales  
+- Cursos en vivo de Python para análisis de datos  
+- Clases estructuradas con teoría, práctica y proyectos reales  
 
 
 
@@ -21,16 +21,16 @@
 
 ## 📁 Repositorio principal
 
-- 🎒 [`clases-gratuitas`](https://github.com/perupython/clases-gratuitas)  
+- [`clases-gratuitas`](https://github.com/perupython/clases-gratuitas)  
   Clases en vivo que imparto por TikTok con ejercicios, proyectos y material educativo.
 
 ---
 
 ## 🌐 Sígueme en redes
 
-- 🎥 TikTok: [@perupython](https://www.tiktok.com/@perupython)  
-- 📸 Instagram: [@perupython](https://www.instagram.com/perupython)  
-- ▶️ YouTube: [Python Perú](https://www.youtube.com/@perupython)
+- TikTok: [@perupython](https://www.tiktok.com/@perupython)  
+- Instagram: [@perupython](https://www.instagram.com/perupython)  
+- Youtube: [Python Perú](https://www.youtube.com/@perupython)
 
 > 📬 Escríbeme por redes si quieres unirte a mis cursos o lives privados
 
