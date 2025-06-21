@@ -17,7 +17,7 @@
 🟢 También ofrezco **cursos pagos de especialización en Análisis de Datos con Python**, donde trabajamos con:
 
 - Manipulación de datos con Pandas y Numpy
-- Visualización de datos con Matplotlib  
+- Visualización de datos con Matplotlib y Seaborn
 - Web scraping con BeautifulSoup y Selenium  
 - Modelos predictivos con Scikit-learn
 - Proyectos con datos reales de Kaggle y Data.gov
