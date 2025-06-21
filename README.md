@@ -1,6 +1,6 @@
 # 👋 ¡Bienvenido a Python Perú!
   
-🎓 Somos una academia de programación dedicada a formar a nuevos talentos en tecnología, ofreciendo cursos desde nivel básico hasta avanzado, con un enfoque práctico y profesional.
+- Somos una academia de programación dedicada a formar a nuevos talentos en tecnología, ofreciendo cursos desde nivel básico hasta avanzado, con un enfoque práctico y profesional.
 
 ![GitHub followers](https://img.shields.io/github/followers/PeruPython?style=flat&logo=github)
 [![YouTube](https://img.shields.io/badge/YouTube-Suscríbete-red?style=flat&logo=youtube)](https://www.youtube.com/@perupython)
