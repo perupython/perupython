@@ -5,7 +5,8 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/PeruPython?style=flat&logo=github)
 [![YouTube](https://img.shields.io/badge/YouTube-Suscríbete-red?style=flat&logo=youtube)](https://www.youtube.com/@perupython)
-[![YouTube](https://img.shields.io/badge/YouTube-+800-red?style=flat&logo=youtube)](https://www.youtube.com/@perupython)
+
+[![Contador en vivo](https://img.shields.io/badge/YouTube-Contador%20en%20vivo-red?style=flat&logo=youtube)](https://socialcounts.org/youtube-live-subscriber-count/UCC3_dSUen5cfiow8E5exgwQ)
 
 
 
