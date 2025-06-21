@@ -2,7 +2,10 @@
   
 👨‍🏫 Instructor de Python para Análisis de Datos  
 📚 Enseño desde cero hasta avanzado con librerías como:  
-![redes_sociales_pythonperu](https://github.com/user-attachments/assets/67c8b9a8-6095-483b-b6b3-faded946392a)
+
+
+![REDES SOCIALES BANNER](https://github.com/user-attachments/assets/64ea1a13-a099-44fc-bcd9-dea07bd78830)
+
 
 
 🎥 Hago clases gratuitas en vivo todos los días en TikTok para toda la comunidad de habla hispana.
