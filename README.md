@@ -6,7 +6,15 @@
 ![GitHub followers](https://img.shields.io/github/followers/PeruPython?style=flat&logo=github)
 [![YouTube](https://img.shields.io/badge/YouTube-Suscríbete-red?style=flat&logo=youtube)](https://www.youtube.com/@perupython)
 
+## 🌐 Encuéntrame en redes
+
+[![GitHub](https://img.shields.io/github/followers/PeruPython?label=GitHub&style=flat&logo=github)](https://github.com/PeruPython)
+[![YouTube](https://img.shields.io/badge/YouTube-+2.4K_suscriptores-red?style=flat&logo=youtube)](https://www.youtube.com/@perupython)
 [![Contador en vivo](https://img.shields.io/badge/YouTube-Contador%20en%20vivo-red?style=flat&logo=youtube)](https://socialcounts.org/youtube-live-subscriber-count/UCC3_dSUen5cfiow8E5exgwQ)
+[![TikTok](https://img.shields.io/badge/TikTok-@perupython-black?style=flat&logo=tiktok)](https://www.tiktok.com/@perupython)
+[![Instagram](https://img.shields.io/badge/Instagram-@perupython-purple?style=flat&logo=instagram)](https://www.instagram.com/perupython)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yoshio%20Rivera-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yoshio-rivera/)
+
 
 
 
