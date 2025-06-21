@@ -1,13 +1,6 @@
 # 👋 ¡Hola, soy Python Perú!
   
-👨‍🏫 Instructor de Python para Análisis de Datos  
-📚 Enseño desde cero hasta avanzado con librerías como:  
-
-
-![REDES SOCIALES BANNER](https://github.com/user-attachments/assets/64ea1a13-a099-44fc-bcd9-dea07bd78830)
-
-
-
+👨‍🏫 Instructor de Python para Análisis de Datos 
 🎥 Hago clases gratuitas en vivo todos los días en TikTok para toda la comunidad de habla hispana.
 
 
@@ -71,7 +64,7 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)
 
-
+![REDES SOCIALES BANNER](https://github.com/user-attachments/assets/64ea1a13-a099-44fc-bcd9-dea07bd78830)
 
 ---
 
