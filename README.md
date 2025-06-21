@@ -2,12 +2,9 @@
   
 - Somos una academia de programación dedicada a formar a nuevos talentos en tecnología, ofreciendo cursos desde nivel básico hasta avanzado, con un enfoque práctico y profesional.
 
-![GitHub followers](https://img.shields.io/github/followers/PeruPython?style=flat&logo=github)
-[![YouTube](https://img.shields.io/badge/YouTube-793-red?style=flat&logo=youtube)](https://www.youtube.com/@perupython)
-[![TikTok](https://img.shields.io/badge/TikTok-19k-white?style=flat&logo=tiktok)](https://www.tiktok.com/@perupython)
 
-[![YouTube Subscribers](https://img.shields.io/youtube/subscribers/UCC3_dSUen5cfiow8E5exgwQ?label=Subscribers&style=for-the-badge&color=red&logo=youtube)](https://www.youtube.com/@perupython)
 
+[![YouTube](https://img.shields.io/youtube/subscribers/UCC3_dSUen5cfiow8E5exgwQ?label=Subscribers&style=for-the-badge&color=red&logo=youtube)](https://www.youtube.com/@perupython)
 [![TikTok](https://img.shields.io/badge/TikTok-19k-black?style=social&logo=tiktok)](https://www.tiktok.com/@perupython)
 [![GitHub Followers](https://img.shields.io/github/followers/perupython?label=Followers&logo=github&style=social)](https://github.com/perupython)
 [![GitHub Stars](https://img.shields.io/github/stars/perupython?label=Stars&logo=github&style=social)](https://github.com/perupython)
