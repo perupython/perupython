@@ -1,11 +1,13 @@
-# 👋 ¡Hola, soy Yoshio Rivera!
-
-🎓 Fundador de **Python Perú**  
-👨‍🏫 Instructor de **Python para Análisis de Datos**  
+![redes_sociales_pythonperu](https://github.com/user-attachments/assets/b68df166-a95b-4253-9098-0f4b0b14b3dd)# 👋 ¡Hola, soy Python Perú!
+  
+👨‍🏫 Instructor de Python para Análisis de Datos  
 📚 Enseño desde cero hasta avanzado con librerías como:  
 `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`, `geopandas`, `statsmodels`, `scikit-learn`, `selenium`, `beautifulsoup`, entre otras.
+![redes_sociales_pythonperu](https://github.com/user-attachments/assets/67c8b9a8-6095-483b-b6b3-faded946392a)
 
-🎥 Hago **clases gratuitas en vivo todos los días** en TikTok para toda la comunidad de habla hispana.
+
+🎥 Hago clases gratuitas en vivo todos los días en TikTok para toda la comunidad de habla hispana.
+
 
 
 
